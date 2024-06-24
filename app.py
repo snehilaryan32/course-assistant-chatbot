@@ -17,7 +17,6 @@ prompt_init = f'''Hello You are a course advisor. Accoring to the prompt use the
                 technologies taught and the pre requisites required to take the course.
                 '''
 
-
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
     
