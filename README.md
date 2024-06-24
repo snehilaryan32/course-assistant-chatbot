@@ -22,11 +22,17 @@ cd course-assistant-chatbot
 pip install streamlit openai
 ```
 
-3. **Setup secrets.toml file in .streamlit directory**
+3. **Setup secrets.toml file**
+Store your OpenAI API key in Streamlit secrets. Create a file named .streamlit/secrets.toml with the following content:
 ```bash
-mkdir .streamlit
-```
-
-```
 OPENAI_API_KEY="ADD YOUR API KEY"
 ```
+
+4. **Run the streamlit app**
+Make sure you are in the root directory of the repository
+```bash
+streamlit run app.py
+```
+
+5. **Interact With the chatbot**
+Open your web browser and navigate to http://localhost:8501. Start chatting with the course assistant to get course recommendations and more information.
