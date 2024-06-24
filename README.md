@@ -12,7 +12,10 @@ This is a Streamlit application that acts as a course advisor chatbot, leveragin
 
 ## Watch the Demo Video
 
-[![Ollama Installation Video]([https://img.youtube.com/vi/Af362vPLuVQ/0.jpg)](https://www.youtube.com/watch?v=Af362vPLuVQ](https://www.youtube.com/watch?v=MMxdLhb5eeI))
+[![Demo Video](https://img.youtube.com/vi/MMxdLhb5eeI/0.jpg)](https://www.youtube.com/watch?v=MMxdLhb5eeI "Video Title")
+
+For more details, check out this [video](https://www.youtube.com/watch?v=MMxdLhb5eeI).
+
 
 
 ## Installation
