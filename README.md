@@ -10,6 +10,10 @@ This is a Streamlit application that acts as a course advisor chatbot, leveragin
 - **Course Recommendations**: The chatbot uses the provided course data to recommend courses and answer questions.
 - **Dynamic Conversations**: The chatbot can ask for more information to provide better recommendations.
 
+## Watch the Demo Video
+
+[![Ollama Installation Video]([https://img.youtube.com/vi/Af362vPLuVQ/0.jpg)](https://www.youtube.com/watch?v=Af362vPLuVQ](https://www.youtube.com/watch?v=MMxdLhb5eeI))
+
 
 ## Installation
 
