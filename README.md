@@ -4,9 +4,12 @@ This is a Streamlit application that acts as a course advisor chatbot, leveragin
 
 ## Features
 
+- **Useful Responses**: The chatbot generates detailed and relevant course recommendations, summaries, and prerequisites to help students make informed decisions. Unlike a generic chatbot, it utilizes a specific course catalog provided in the JSON file, ensuring personalized and accurate advice based on the actual courses available.
+- **Variety of Queries**: The chatbot can handle a wide range of queries, including specific course details, topic overviews, prerequisite information, and general course advice.
 - **Interactive Chat Interface**: Communicate with the chatbot in a chat-like interface.
 - **Course Recommendations**: The chatbot uses the provided course data to recommend courses and answer questions.
 - **Dynamic Conversations**: The chatbot can ask for more information to provide better recommendations.
+
 
 ## Installation
 
